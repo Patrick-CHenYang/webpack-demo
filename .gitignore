@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+.idea
+zw-matrix
+*.zip
+yarn-error.log
+.vscode
+.prettierrc.js
+stats.html
+yarn.lock
